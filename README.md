@@ -7,4 +7,4 @@ A video clip of the machine prototype sorting the zizania shoots:
 
 The OBBLabel software can be downloaded at: https://www.aliyundrive.com/s/AZ4AYJaBoKg
 
-And the datasets of zizania shoot, carrot and cucumber can be accesses at: https://www.aliyundrive.com/s/zTSKBPNxLD7
+And the datasets of zizania shoot, carrot and cucumber can be accessed at: https://www.aliyundrive.com/s/zTSKBPNxLD7
